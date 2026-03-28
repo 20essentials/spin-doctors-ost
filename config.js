@@ -1,0 +1,23 @@
+export const nameBand = 'SPIN DOCTORS';
+export const nameSongs = [
+	"TWO PRINCES", /*1*/
+	"LITTLE MISS CAN'T BE WRONG", /*2*/
+	"JIMMY OLSEN'S BLUES", /*3*/
+	"WHAT TIME IS IT?", /*4*/
+	"HOW COULD YOU WANT HIM", /*5*/
+	"CLEOPATRA'S CAT", /*6*/
+	"SHE USED TO BE MINE", /*7*/
+	"MARY JANE", /*8*/
+	"YOU LET YOUR HEART GO TOO FAST", /*9*/
+	"TRACTION BLUES", /*10*/
+	"SWEETEST PORTION", /*11*/
+	"BIG FAT FUNKY BOOTY", /*12*/
+	"HUNGRY HAMED'S", /*13*/
+	"BISCUIT HEAD", /*14*/
+	"INDIFFERENCE", /*15*/
+	"BAGS OF DIRT", /*16*/
+	"MORE THAN MEETS THE EAR", /*17*/
+	"LARABY'S GANG", /*18*/
+	"AT THIS HOUR", /*19*/
+	"SOMEDAY ALL THIS WILL BE ROAD", /*20*/
+]
